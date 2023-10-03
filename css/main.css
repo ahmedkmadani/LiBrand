@@ -102,7 +102,7 @@ header.fixed{
 }
 
 .switchedHeader .logo h1 span{
-	color:#d0a068 ;
+	color:#e40042 ;
 }
 
 
@@ -149,7 +149,7 @@ nav#mainNav li a{
 
 .mobileBtn i{
 	font-size:16px;
-	color:#d0a068;
+	color:#e40042;
 }
 
 
@@ -248,7 +248,7 @@ nav#mainNav li a{
 }
 
 .introSocial li a{
-	color:#d0a068;
+	color:#e40042;
 }
 
 
@@ -265,7 +265,7 @@ nav#mainNav li a{
 }
 
 .shortContact, .shortContact span, .shortContact i {
-    background: #d0a068;
+    background: #e40042;
 }
 
 .shortFolio, .shortFolio span, .shortFolio i {
@@ -348,7 +348,7 @@ nav#mainNav li a{
 .ftIco span.ico {
     background: #343434;
     border: 3px solid #555555;
-    color: #D0A068;
+    color: #e40042;
     display: inline-block;
     font-size: 22px;
     height: 60px;
@@ -401,7 +401,7 @@ nav#mainNav li a{
 
 .tSocials li a:hover{
 	
-	background:#d0a068;
+	background:#e40042;
 	display:inline-block;
 	padding:2px 4px;
 	color:#ffffff;
@@ -436,7 +436,7 @@ nav#mainNav li a{
 }
 
 .thumbs li a span {
-    background: url(../images/crosshairSmall.png) no-repeat center center rgba(208, 160, 104, 0.7);
+    background: url(../images/crosshairSmall.png) no-repeat center center rgba(228, 0, 66, 0.7);
     display: block;
     height: 100%;
     left: 0;
@@ -593,7 +593,7 @@ nav#mainNav li a{
 
 
 .imgServices {
-    background-image: url(../images/imgServices.jpg);
+    background-image: url(../images/bg-services.jpg);
     background-position: 50% 20%;
     background-size: cover;
     display: block;
@@ -640,7 +640,7 @@ nav#mainNav li a{
 
 
 .planHeader.featured .planPrice h1, .planHeader.featured .planName h3{
-	color:#D0A068;
+	color:#e40042;
 }
 
 
@@ -688,7 +688,7 @@ nav#mainNav li a{
 
 
 .clients{
-	background:#343434;
+	background:white;
 	padding:50px 0;
 }
 
@@ -736,12 +736,12 @@ ul#category li a {
 
 
 ul#category li a:hover {
-    color: #D0A068;
+    color: #e40042;
 }
 
 
 #category .current a:after {
-    border-bottom: 1px solid #D0A068;
+    border-bottom: 1px solid #e40042;
     content: "";
     display: block;
     left: 50%;
@@ -754,7 +754,7 @@ ul#category li a:hover {
 
 
 #category .current a {
-    color: #D0A068;
+    color: #e40042;
 }
 
 
@@ -771,7 +771,7 @@ ul#category li a:hover {
 
 .item a .desc {
 	
-    background:rgba(208, 160, 104, 0.96);
+    background:rgba(228, 0, 66, 0.7);
     height: 100%;
     left: 0;
     position: absolute;
@@ -820,7 +820,7 @@ ul#category li a:hover {
 	
     display: block;
 	font-size:13px;
-	color:#D0A068;
+	color:#e40042;
 	margin-top:2px;
 }
 
@@ -837,7 +837,7 @@ h1.projTitle  {
 
 
 h1.projTitle span {
-    color: #D0A068;
+    color: #e40042;
     display: block;
     font-size: 13px;
     margin-top: 6px;
@@ -867,7 +867,7 @@ h1.projTitle span {
 
 
 .projSocials li a:hover, .projNav li a:hover {
-    background: #D0A068;
+    background: #e40042;
     color: #FFFFFF;
 }
 
@@ -963,7 +963,7 @@ h1.relatedTitle{
 .clt p i {
     background:#FFFFFF;
     border: 3px solid #F2F2F1;
-    color: #D0A068;
+    color: #e40042;
     display: inline-block;
     font-size: 40px;
     height: 90px;
@@ -990,7 +990,7 @@ h1.relatedTitle{
 
 .clt a{
 	font-size:30px;
-	color:#d0a068;
+	color:#e40042;
 	display:inline-block;
 	margin-top:50px
 }
@@ -1058,7 +1058,7 @@ h1.relatedTitle{
 
 
 .postExcerpt a.title:hover{
-	color:#d0a068;
+	color:#e40042;
 }
 
 .postSlider{
@@ -1116,7 +1116,7 @@ h1.relatedTitle{
 
 .postTitle span.postDate {
     font-size: 16px;
-	color:#D0A068;
+	color:#e40042;
 }
 
 .postTitle span a:hover {
@@ -1158,11 +1158,11 @@ h1.relatedTitle{
 }
 
 .pagination ul li a:hover, .pagination ul li span:hover {
-	color:#D0A068;
+	color:#e40042;
 }
 
 .pagination ul li a.selected {
-	color:#D0A068;
+	color:#e40042;
 }
 
 
@@ -1177,7 +1177,7 @@ h1.relatedTitle{
 .postSingle blockquote{
 	font-size:16px;
 	line-height:25px;
-	color:#D0A068;
+	color:#e40042;
 }
 
 
@@ -1198,7 +1198,7 @@ h1.relatedTitle{
 
 .tagsListSingle li a{
 	
-	background:#D0A068;
+	background:#e40042;
     color: #ffffff;
     display: inline-block;
     padding: 5px 12px;
@@ -1288,7 +1288,7 @@ h1.relatedTitle{
 
 
 .commentContent .date a {
-    color: #D0A068;
+    color: #e40042;
     font-size: 11px;
 	display: inline-block;
 }
@@ -1342,7 +1342,7 @@ h1.relatedTitle{
     position: absolute;
     right: 14px;
     top: 15px;
-	color:#D0A068;
+	color:#e40042;
 	background: #f2f2f1;
 }
 
@@ -1362,11 +1362,11 @@ h1.relatedTitle{
 }
 
 .catArchives li a, .meta abbr {
-    color: #D0A068;
+    color: #e40042;
 }
 
 .catList li span.countCat {
-    color:#D0A068;
+    color:#e40042;
 	font-size: 12px;
 }
 
@@ -1439,7 +1439,7 @@ h1.relatedTitle{
 
 
 .contactForm #submit, .replyForm #submit  {
-    background: #D0A068;
+    background: #e40042;
 
     color: #ffffff;
     display: inline-block;
@@ -1511,7 +1511,7 @@ h1.relatedTitle{
 }
 
 .brand {
-    color: #d0a068;
+    color: #e40042;
     
 }
 
@@ -1536,10 +1536,20 @@ h1.relatedTitle{
 
 
 .socialsFooter a:hover {
-    border: 3px solid #d0a068;
-    color: #d0a068;
+    border: 3px solid #e40042;
+    color: #e40042;
 }
 /*End footer*/
+
+
+/* CSS to set the width and height of client logos */
+.client-logo {
+    width: 90; /* Adjust the desired width */
+    height: 90; /* Adjust the desired height */
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
 
 
 
@@ -1594,7 +1604,7 @@ h1.relatedTitle{
 	.mainSlider .flex-control-nav, .projectSlider .flex-control-nav {opacity:1 !important;bottom: 20px !important;}	
 	.mainHeader{background-color: rgba(255, 255, 255, 0.97) !important;}
 	.logo h1{color: #343434;}
-	.logo h1 span{color:#d0a068 ;}
+	.logo h1 span{color:#e40042 ;}
 	.logo, nav#mainNav{float:none;}
 	nav#mainNav{margin-right:0;}
 	nav#mainNav ul{display:none;margin-bottom:10px;}
@@ -1664,7 +1674,7 @@ h1.relatedTitle{
 	.postSlider .flex-control-nav {opacity:1 !important;bottom: 15px !important;}
 	.mainHeader{background-color: rgba(255, 255, 255, 0.97) !important;}
 	.logo h1{color: #343434;}
-	.logo h1 span{color:#d0a068 ;}
+	.logo h1 span{color:#e40042 ;}
 	.logo, nav#mainNav{float:none;}
 	nav#mainNav{margin-right:0;}
 	nav#mainNav ul{display:none;margin-bottom:10px;}

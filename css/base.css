@@ -156,7 +156,7 @@ iframe{width:100%;frameborder:0;}
 
 
 	.specialBtn i {
-	    background:#D0A068;
+	    background:#e40042;
 	    border-radius: 3px 0 0 3px;
 		-webkit-border-radius: 3px 0 0 3px;
 		-moz-border-radius: 3px 0 0 3px;
@@ -185,7 +185,7 @@ iframe{width:100%;frameborder:0;}
 
 
 	.btn.featured a, .btn.more a{
-		background:#D0A068;
+		background:#e40042;
 		color:#ffffff;
 
 	}
