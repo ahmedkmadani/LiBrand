@@ -1551,6 +1551,15 @@ h1.relatedTitle{
 }
 
 
+.video-fit {
+    width: 176%;
+    height: auto;
+	object-fit: cover;
+    margin-left: -30%;  
+	margin-bottom: -30%;  
+	margin-top: 0%;  
+
+}
 
 
 
